@@ -1,7 +1,7 @@
-import token
-from tokenize import tokenize
 import argparse
 import glob
+import token
+from tokenize import tokenize
 
 
 def parse_args():
