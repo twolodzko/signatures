@@ -12,7 +12,7 @@ allchecks: stylecheck typecheck test smoketest
 
 .PHONY: test
 test:
-	pytest -v .
+	# No tests to run
 
 .PHONY: smoketest
 smoketest:
